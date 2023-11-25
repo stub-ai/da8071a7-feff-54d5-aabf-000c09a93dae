@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a Google Apps Script to fetch reports from the Amazon Selling Partner API and upload them to a BigQuery table.","md5":"dc445fb68cad3f53961934d2b36aa8d9"}]}
